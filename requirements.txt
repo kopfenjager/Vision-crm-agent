@@ -1,0 +1,6 @@
+flask
+easyocr
+face_recognition
+opencv-python
+openai
+numpy
